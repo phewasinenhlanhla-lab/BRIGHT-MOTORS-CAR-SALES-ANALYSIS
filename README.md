@@ -57,6 +57,3 @@ This project ingests the Bright Motors vehicle sales dataset, performs ETL and c
 
 ---
 
-## Contact
-
-For questions or to request reproducible scripts and PBIX, contact: [your email]
